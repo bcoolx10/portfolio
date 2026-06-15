@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Aurum Models work placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#15110d"/>
+      <stop offset=".48" stop-color="#7a111b"/>
+      <stop offset="1" stop-color="#d91526"/>
+    </linearGradient>
+    <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse">
+      <path d="M54 0H0V54" fill="none" stroke="#fff6e7" stroke-opacity=".14" stroke-width="3"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="720" fill="url(#g)"/>
+  <rect width="1200" height="720" fill="url(#grid)"/>
+  <path d="M-50 610C188 420 316 492 524 324S874 130 1250 210" fill="none" stroke="#f2b426" stroke-width="26" opacity=".68"/>
+  <rect x="112" y="116" width="360" height="448" rx="18" fill="#fff6e7" opacity=".17" stroke="#fff6e7" stroke-width="8"/>
+  <circle cx="292" cy="274" r="80" fill="#fff6e7" opacity=".18"/>
+  <path d="M174 506c24-112 92-168 118-168s94 56 118 168" fill="#fff6e7" opacity=".18"/>
+  <text x="76" y="666" font-family="Arial Black, Arial, sans-serif" font-size="42" fill="#fff6e7" opacity=".72">DROP AURUM WORK PHOTO HERE</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-label="Outreach work placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#162012"/>
+      <stop offset=".55" stop-color="#526b36"/>
+      <stop offset="1" stop-color="#ecd177"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#g)"/>
+  <g fill="none" stroke="#fff6e7" stroke-width="10" opacity=".35">
+    <circle cx="310" cy="280" r="82"/>
+    <circle cx="560" cy="214" r="82"/>
+    <circle cx="804" cy="320" r="82"/>
+    <path d="M386 252l98-30M636 248l92 40M376 324l350 8"/>
+  </g>
+  <rect x="84" y="100" width="348" height="450" fill="#fff6e7" opacity=".14" stroke="#fff6e7" stroke-width="8"/>
+  <rect x="520" y="92" width="292" height="380" fill="#fff6e7" opacity=".12" stroke="#fff6e7" stroke-width="8" transform="rotate(5 666 282)"/>
+  <text x="74" y="666" font-family="Arial Black, Arial, sans-serif" font-size="42" fill="#fff6e7" opacity=".78">DROP OUTREACH PHOTO HERE</text>
+</svg>
